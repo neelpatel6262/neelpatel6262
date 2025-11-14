@@ -1,4 +1,4 @@
-# Hey, I'm Neel Patel 👋
+# Hey 👋🏻, I'm Neel Patel...
 
 Front-end developer passionate about building beautiful, responsive web experiences.
 
