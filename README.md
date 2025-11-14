@@ -6,22 +6,13 @@ Front-end developer passionate about building beautiful, responsive web experien
 
 ## 🛠️ Tools & Technologies
 
-**Frontend:**
-- HTML5
-- CSS3 (Flexbox, Grid, Responsive Design)
-- JavaScript
-- Tailwind CSS
-- Figma (Design to Code)
-
-**Deployment & Version Control:**
-- Git & GitHub
-- Vercel
-- Static site hosting
-
-**Design & Prototyping:**
-- Figma
-- UI/UX principles
-- Responsive design patterns
+| Frontend | Deployment & Version Control | Design & Prototyping |
+|---|---|---|
+| HTML5 | Git & GitHub | Figma |
+| CSS3 (Flexbox, Grid, Responsive Design) | Vercel | UI/UX principles |
+| JavaScript | Static site hosting | Responsive design patterns |
+| Tailwind CSS | Web Development | Component Design |
+| Figma (Design to Code) | Performance Optimization | Accessibility |
 
 ---
 
