@@ -16,12 +16,3 @@ Front-end developer passionate about building beautiful, responsive web experien
 
 ---
 
-## 📫 How to Reach Me
-
-- **Portfolio:** [my-portfolio-6262.vercel.app](https://my-portfolio-6262.vercel.app/)
-- **Notion Templates:** [Boost Your Workflow – Design x Dev](https://uiuxdevloper.notion.site/Boost-Your-Workflow-Design-x-Dev-22e85c5cc87280f3ac6bc6152dc9ef0b?pvs=74)
-- **Open to:** Opportunities and collaborations!
-
----
-
-⭐ If you find my work interesting, feel free to star some repositories! 🚀
